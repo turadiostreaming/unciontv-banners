@@ -1,0 +1,22 @@
+{
+  "banners": [
+    "https://raw.githubusercontent.com/turadiostreaming/unciontv-banners/main/banner1.png",
+    "https://raw.githubusercontent.com/turadiostreaming/unciontv-banners/main/banner2.png",
+    "https://raw.githubusercontent.com/turadiostreaming/unciontv-banners/main/banner3.png"
+  ],
+  "programacion": [
+    "LUNES A VIERNES",
+    "  6:00 AM  - Despertando con Dios",
+    "  10:00 AM - Palabra de Vida",
+    "  3:00 PM  - Alabanza y Adoración",
+    "  7:00 PM  - Culto en Vivo",
+    "",
+    "SÁBADO",
+    "  10:00 AM - Estudio Bíblico",
+    "  6:00 PM  - Noche de Adoración",
+    "",
+    "DOMINGO",
+    "  9:00 AM  - Servicio Dominical",
+    "  6:00 PM  - Predicación Especial"
+  ]
+}
