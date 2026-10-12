@@ -5,7 +5,7 @@
     "https://raw.githubusercontent.com/turadiostreaming/unciontv-banners/main/banner2.png",
     "https://raw.githubusercontent.com/turadiostreaming/unciontv-banners/main/banner3.png"
   ],
-  "tv_url": "https://edge.enhdtv.com/radiomensajetv/index.m3u8",
+  "tv_url": "https://edge.enhdtv.com/unciontv/index.m3u8",
   "radio_url": "https://sonicpanel.totalstreaming.net/8160/stream",
   "programacion": [
     "LUNES A VIERNES",
